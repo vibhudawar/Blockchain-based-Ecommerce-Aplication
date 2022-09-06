@@ -8,7 +8,7 @@ For this, physical warranty systems need to be replaced by digital warranty syst
 Our website is capable of tracking all the transactions done using metamask and 
 on resale, the product’s ownership is updated both in the database and contract.
 We have also updated the traditional repairment and return facilities using blockchain authentication.For more engagement of customers the website is also equipped with gamification in terms of warranty extension which can be redeemed as gifts.
-Deloyed our contract using polygon blockchain.
+Deployed our contract using polygon blockchain.
 
 
 
