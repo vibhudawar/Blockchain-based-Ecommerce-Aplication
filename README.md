@@ -1,5 +1,5 @@
 
-# FlipKart-Grid Ecommerce Application
+# Blockchain Based Ecommerce Application
 
 A FullStack Ecommerce App built with Django, Blockchain and ReactJs.
 
