@@ -102,5 +102,5 @@ Start the server
 
 ## Contributors
 
-https://github.com/sneha-16hub
-http://github.com/SahajdeepSingh
+* https://github.com/sneha-16hub
+* http://github.com/SahajdeepSingh
