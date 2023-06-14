@@ -73,11 +73,6 @@ Create a virtual environment to store your projects dependencies separately
 ```bash
   pip install virtualenv
 ```
-Clone the project
-
-```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Backend
-```
 
 Run the following command in the base directory of this project
 
