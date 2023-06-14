@@ -54,12 +54,6 @@ ReactJs, Axios, Web3, Django, SQLite, HTML, CSS, Blockchain...
 ## Installation
 ### Frontend :
 
-Clone the project
-
-```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Frontend
-```
-
 Install dependencies
 
 ```bash
