@@ -51,53 +51,6 @@ ReactJs, Axios, Web3, Django, SQLite, HTML, CSS, Blockchain...
 ![transfer-history](https://user-images.githubusercontent.com/60435967/187740690-185726c8-d8c1-4fca-a4e9-a0253529be7f.png)
 
 
-## Installation
-### Frontend :
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-### Backend :
-
-
-Create a virtual environment to store your projects dependencies separately
-
-```bash
-  pip install virtualenv
-```
-
-Run the following command in the base directory of this project
-
-```bash
-  virtualenv env
-```
-Next activate env with this command on mac/linux
-
-```bash
-  source env/bin/active
-```
-Install the project dependencies
-```bash
-  pip install -r requirements.txt
-```
-Replace the following details in Backend/blockchain/blockchain/settings.py
-```bash
-SECRET_KEY = 'Your Key'
-EMAIL_HOST_USER = 'Your email'
-EMAIL_HOST_PASSWORD = 'Your password'
-```
-Start the server
-```bash
-  python manage.py runserver
-```
 
 ## Contributors
 
