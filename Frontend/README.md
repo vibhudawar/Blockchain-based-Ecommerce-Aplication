@@ -1,5 +1,5 @@
 
-# FlipKart-Grid Ecommerce Application
+# Blockchain based Ecommerce Application
 
 A FullStack Ecommerce App built with Django, Blockchain and ReactJs.
 
@@ -41,64 +41,6 @@ ReactJs, Axios, Web3, Django, SQLite, HTML, CSS, Blockchain...
 ![nftdetails](https://user-images.githubusercontent.com/60435967/182042880-ed96afa6-1d46-46c3-9973-a4bab9b28995.png)
 
 
-## Installation
-### Frontend :
-
-Clone the project
-
-```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Frontend
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-### Backend :
-
-
-Create a virtual environment to store your projects dependencies separately
-
-```bash
-  pip install virtualenv
-```
-Clone the project
-
-```bash
-  git clone https://github.com/sneha-16hub/Blockchain/tree/main/Backend
-```
-
-Run the following command in the base directory of this project
-
-```bash
-  virtualenv env
-```
-Next activate env with this command on mac/linux
-
-```bash
-  source env/bin/active
-```
-Install the project dependencies
-```bash
-  pip install -r requirements.txt
-```
-Replace the following details in Backend/blockchain/blockchain/settings.py
-```bash
-SECRET_KEY = 'Your Key'
-EMAIL_HOST_USER = 'Your email'
-EMAIL_HOST_PASSWORD = 'Your password'
-```
-Start the server
-```bash
-  python manage.py runserver
-```
 
 ## Contributors
 
