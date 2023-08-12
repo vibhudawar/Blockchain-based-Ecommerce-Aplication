@@ -319,7 +319,7 @@ def pinata_file_upload(request,uid,id):
               ('file',(img_name,open(file_path,'rb'),'image/png'))
             ]
             headers = {
-              'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI1N2M5Mzc3YS1iZTA1LTQzNzQtYjMzOC0wNDk1MzgyNzRlZDEiLCJlbWFpbCI6InJpcHVkYW1hbkBibG9ja2ZpbmNoLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiIyYWUzYWI0YzU3ZWE0ZjEyMzU3OSIsInNjb3BlZEtleVNlY3JldCI6IjI4ZjhhMjAyNjllNWMxMmQwMjRlZDZiNGZhODMyZGQxNmVlOTk4MjExNDY4NjQ5ZGZhOTEzMjQxMmFhZGNmNzMiLCJpYXQiOjE2NTg3NzQ3MTF9.hp6hk2UoIYJGccDBBO8p4UG3ZlRrV-4OaIv9Q2srTf8'
+              'Authorization': ''
             }
 
             response = requests.request("POST", url, headers=headers, data=payload, files=files)
